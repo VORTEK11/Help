@@ -1,0 +1,16 @@
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\bin\Debug\ConsoleDiary.exe.config
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\bin\Debug\ConsoleDiary.exe
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\bin\Debug\ConsoleDiary.pdb
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.AssemblyReference.cache
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.CoreCompileInputs.cache
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\obj\Debug\ConsoleDiary.exe
+C:\Users\Vortek\Desktop\Console_Diary-master\ConsoleDiary\obj\Debug\ConsoleDiary.pdb
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.AssemblyReference.cache
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\obj\Debug\ConsoleDiary.csproj.CoreCompileInputs.cache
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\obj\Debug\ConsoleDiary.exe
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\obj\Debug\ConsoleDiary.pdb
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\bin\Debug\ConsoleDiary.exe.config
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\bin\Debug\ConsoleDiary.exe
+C:\Users\Vortek\Desktop\PodVinco\ConsoleDiary\bin\Debug\ConsoleDiary.pdb
